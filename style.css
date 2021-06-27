@@ -4,3 +4,6 @@ body {
     color: black;
     font-family: serif;
 }
+a {
+    text-align: left;
+}
